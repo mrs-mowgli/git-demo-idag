@@ -1,1 +1,4 @@
 Text i master
+
+En textrade i branchen textchanges
+En ändring i textchanges i remote branch
