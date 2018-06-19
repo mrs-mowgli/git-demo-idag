@@ -1,3 +1,5 @@
 Text i master
 
 En textrad i branchen  textchanges
+En ändring i textchanges i remote branch
+
